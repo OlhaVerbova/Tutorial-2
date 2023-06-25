@@ -31,16 +31,3 @@ elif operator == "*":
 elif operator == "/":
     result /= operand
 print(result)
-
-    
-
-
-    
-
-    
-    
-    
-
-
-
-
